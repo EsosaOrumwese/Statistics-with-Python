@@ -4,3 +4,5 @@ This repo contains coursework done while on the [Statistics with Python Speciali
 * Course 1: Understanding and Visualizing Data with Python
 * Course 2: Inferential Statistical Analysis with Python
 * Course 3: Fitting Statistical Models to Data with Python
+
+<img src="specialization_certificate.png" alt="Specialization Certificate" width="700" height="500">
